@@ -12,7 +12,7 @@ include('index.html');
 
     if($info){
         echo 'inserido';
-        header('Location:https://www.google.com');
+        header('Location:#');
         
     }   
     
